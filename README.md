@@ -1,6 +1,6 @@
 # COMP3231 Operating System Assignments
 
-This repo showcases the work done on the OS161 learning operating systems divided into 3 projects. 
+This repo showcases the work done on the [OS161](http://www.os161.org/) learning operating systems divided into 3 projects. 
  
 # Project 1: Concurrency & Synchronisation 
 
